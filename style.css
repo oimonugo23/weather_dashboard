@@ -1,0 +1,8 @@
+
+.hidden{
+    display: none;
+}
+
+.current-weather {
+  background-color: aquamarine;
+}
