@@ -35,6 +35,6 @@ function fetchFunc(cityName) {
     });
 }
 
-// historyitem.addEventListener("click", function(e){
-//  fetchFunc(e.target.value)
-// })
+historyitem.addEventListener("click", function(e){
+ fetchFunc(e.target.value)
+})
